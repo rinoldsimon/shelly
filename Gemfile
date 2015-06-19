@@ -45,3 +45,4 @@ end
 
 gem 'puma'
 gem 'shelly-dependencies', group: :production
+gem 'pg', group: :production
